@@ -69,5 +69,8 @@
       "path": "./project-words.txt",
       "addWords": true
     }
+  ],
+  "enableFiletypes": [
+    "!text"
   ]
 }
